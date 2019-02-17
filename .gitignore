@@ -1,0 +1,2 @@
+# ignore config files for security
+/trading_config.py
