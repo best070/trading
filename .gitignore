@@ -1,2 +1,6 @@
 # ignore config files for security
 /trading_config.py
+
+# just ignore .idea
+.idea/
+__pycach__/
